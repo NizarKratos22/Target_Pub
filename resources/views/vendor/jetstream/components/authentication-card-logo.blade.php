@@ -1,0 +1,1 @@
+<img src="{{ asset('/assets/images/targetpub2.png')}}" alt="" style="width: 120px; height: 120px;">
